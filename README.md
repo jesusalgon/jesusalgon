@@ -24,7 +24,7 @@ If you want to take a look, here you have the [web](https://jesusalgon.github.io
 ## Course: CS50’s Web Programming with Python and JavaScript
 This is my actual course. It is about a bit of all, but focused mostly on front-end. These guys are great, I truly recommend any of their courses.
 ### Project 0: Search
-That was so funny. With just **HTML** and **CSS** I had to replicate the Google Search front-end. It even works as the original! </br>
+That one was so funny. With just **HTML** and **CSS** I had to replicate the Google Search front-end. It even works as the original! </br>
 To make it a little more interesting, I decided to use **SASS** and **Bootstrap** for first time. They are awesome! I even made the web responsive in just a few minutes.
 
 To see the result, here you have the [web](https://jesusalgon.github.io/CS50-Search) and the code [code](https://github.com/jesusalgon/CS50-Search).
