@@ -22,10 +22,15 @@ This was my very first real project. I made it for a friend of mine, who needed 
 If you want to take a look, here you have the [web](https://jesusalgon.github.io/fatum) and the [code](https://github.com/jesusalgon/fatum).
 
 ## Course: CS50’s Web Programming with Python and JavaScript
-This is my actual course. It is about a bit of all, but focused mostly on front-end. These guys are great, I truly recommend any of their courses.
+This is my current course. It lets you start coding frontend, but also backend. These guys are great, I truly recommend any of their courses.
 ### Project 0: Search
 That one was so funny. With just **HTML** and **CSS** I had to replicate the Google Search front-end and make it work like the original one. </br>
 To make things a little more interesting, I decided to use **SASS** and **Bootstrap** for first time. They are awesome! I even made the web responsive in just a few minutes.
 
 To see the result, here you have the [web](https://jesusalgon.github.io/CS50-Search) and the [code](https://github.com/jesusalgon/CS50-Search).
+
+### Project 1: Wiki
+My very first serious project with Django! After the Google project, here it comes some kind of Wikipedia one. It was a perfect approach to backend and forms. **Django** is a marvelous framework. I really enjoyed the part where I had to connect the views and the templates, so interesting!
+
+Want to see the result? Here you have the [code](https://github.com/jesusalgon/CS50-Wiki). Deployment will be ready soon.
 
